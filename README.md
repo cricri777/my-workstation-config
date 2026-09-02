@@ -1,7 +1,10 @@
-# my-workstation-config
-Configuration for my workstation
+# My Workstation Config
 
-# Target structure example
+My personal configuration repo and no one else.
+
+## Repository Layout
+
+```text
 my-workstation-config/
 ├── README.md
 ├── bootstrap/
@@ -42,3 +45,7 @@ my-workstation-config/
     │   └── 0001-rclone-via-systemd.md
     └── runbooks/
         └── restore-new-laptop.md
+```
+
+## Notes
+

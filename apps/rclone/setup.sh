@@ -1,6 +1,5 @@
-# Setup systemd with rclone and 
-#
-#
+# Setup systemd with rclone
+# Adapt by replacing cricri-gdrive: and 
 #
 mkdir -p ~/.config/systemd/user
 cat > ~/.config/systemd/user/rclone-gdrive.service <<'EOF'
